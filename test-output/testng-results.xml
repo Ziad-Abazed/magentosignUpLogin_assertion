@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-04T19:29:18 EET" name="Default suite" finished-at="2023-12-04T19:29:49 EET" duration-ms="31016">
+    <groups>
+    </groups>
+    <test started-at="2023-12-04T19:29:18 EET" name="Default test" finished-at="2023-12-04T19:29:49 EET" duration-ms="31016">
+      <class name="SignUpSignIn">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:SignUpSignIn@30990c1b]" started-at="2023-12-04T19:29:18 EET" name="Setup" finished-at="2023-12-04T19:29:19 EET" duration-ms="1095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="SignUp()[pri:1, instance:SignUpSignIn@30990c1b]" started-at="2023-12-04T19:29:19 EET" name="SignUp" finished-at="2023-12-04T19:29:33 EET" duration-ms="13843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUp -->
+        <test-method signature="LogoutTest()[pri:2, instance:SignUpSignIn@30990c1b]" started-at="2023-12-04T19:29:33 EET" name="LogoutTest" finished-at="2023-12-04T19:29:41 EET" duration-ms="8445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method signature="LoginTest()[pri:3, instance:SignUpSignIn@30990c1b]" started-at="2023-12-04T19:29:41 EET" name="LoginTest" finished-at="2023-12-04T19:29:49 EET" duration-ms="7369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:SignUpSignIn@30990c1b]" started-at="2023-12-04T19:29:49 EET" name="AfterTest" finished-at="2023-12-04T19:29:49 EET" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- SignUpSignIn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
