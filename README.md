@@ -1,0 +1,1 @@
+# magentosignUpLogin_assertion
